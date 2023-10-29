@@ -1,5 +1,5 @@
-*template.md
-data_large.txt
-data_small.txt
+data/
 profilers/
+reports/
+specs/
 result.json
